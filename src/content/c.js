@@ -1,4 +1,4 @@
-document.write("第1課 <blockquote><p><a href=c1.html>基礎教學 肯定、否定、疑問、也</a></p></blockquote><br>");
+document.write("第1課 <blockquote><p><a href=c1.html>基礎教學：肯定、否定、疑問、也</a></p></blockquote><br>");
 document.write("<a href=c2.html>第2課</a><br>");
 document.write("<a href=c3.html>第3課</a><br>");
 document.write("<a href=c4.html>第4課</a><br>");
