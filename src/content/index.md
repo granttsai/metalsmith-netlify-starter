@@ -7,7 +7,7 @@ seo:
   socialImage: /assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
 ---
-# Metalsmith Netlify CMS Starter
+# 現在開始學日文
 
 ![](/assets/images/anvil-with-hammer.jpg)
 
